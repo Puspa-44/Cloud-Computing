@@ -85,7 +85,7 @@
     </section>
 
     <footer>
-        &copy; <?php echo date("Y"); ?> Puspa Raj Chaudhary. All rights reserved.
+        &copy; <?php echo date("Y"); ?> PuspaRajPortfolio@All Rights Reserved.
     </footer>
 
 </body>
